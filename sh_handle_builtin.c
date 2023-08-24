@@ -5,7 +5,7 @@
  * @argv: argument vector.
  * @envp: envirment variables.
  * @alt: char string to be freed..
- *
+ * char string
  * Return: it returns true or false.
  */
 

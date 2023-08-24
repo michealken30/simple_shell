@@ -4,7 +4,7 @@
  * _handle_exit - handle exit from the shell
  * @argv: array of vector.
  * @alt: string to be freed.
- *
+ * @ string
  * Return - does not return.
  */
 

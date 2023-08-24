@@ -3,6 +3,7 @@
 /**
  *_myfork3 - it helps execute commands using process.
  *@argv: array of vector containing the command to be executed.
+ * @ string
  *Return - does not return.
  */
 
