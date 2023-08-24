@@ -18,11 +18,7 @@
 
 /** Function prototypes*/
 
-int execute_builtin(const char *command);
 
-void display_prompt(void);
-void execute_command(const char *command);
-void writeToStdout(const char *str, size_t len);
 void change_directory(const char *directory);
 void _myfork3(char **argv);
 char *_getline3(char *alx);
@@ -32,7 +28,6 @@ bool _handle_builtins(char **argv, char **envp, char *alt);
 void _handle_env(char **argv, char **envp, char *alt);
 void _handle_exit(char **argv, char *alt);
 int _strncmp(char str1[], char str2[], size_t n);
-ssize_t readFromStdin(char *buf, size_t count);
 
 #endif /* SHELL_H */
 
