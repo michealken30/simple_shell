@@ -2,7 +2,7 @@
 /**
  * _atoi - covert the exit status to numbers.
  * @atr: the string passed to it.
- *
+ * detail o. _atoi
  * Return: returns the status.
  */
 

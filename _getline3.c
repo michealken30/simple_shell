@@ -3,6 +3,7 @@
 /**
  * _getline3 - it helps to read an input from the keyboard.
  * @alx: serves as buffer to store what is read.
+ * This return a string
  * Return: return a character string.
  */
 
